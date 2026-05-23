@@ -1,6 +1,8 @@
 {
   "name": "Tether USD",
   "symbol": "USDT",
-  "description": "Official token",
+  "decimals": 18,
+  "description": "BEP20 token on BNB Chain",
   "image": "https://raw.githubusercontent.com/ashu0211988-crypto/Usdt/main/logo.png"
+  
 }
